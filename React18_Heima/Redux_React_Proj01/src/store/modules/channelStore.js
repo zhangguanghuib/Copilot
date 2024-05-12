@@ -1,0 +1,1 @@
+// This is another channel store module that is used to store the channel data.
