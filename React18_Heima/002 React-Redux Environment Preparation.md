@@ -25,4 +25,5 @@ Veorify the installed package:<br/>
 
 ![image](https://github.com/zhangguanghuib/Copilot/assets/14832260/25d43fa7-928f-4e3a-acec-600f54ed7cb7)
 
+![image](https://github.com/zhangguanghuib/Copilot/assets/14832260/1b4063f8-82f1-4318-8a8f-794899cee222)
 
